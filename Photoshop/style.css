@@ -1,0 +1,140 @@
+*{
+	margin: 0;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+html, body, header,{
+	height: 100%;
+}
+html{
+	font-size: 10px; 
+	font-family: 'Open Sans', sans-serif;
+}
+
+.nav-wrapper{
+	height:120px;
+	display: flex;
+	padding: 0 100px;
+	position: absolute;
+	width: 100%;
+	align-items: center;
+	justify-content: space-between;
+}
+.topnav{
+	display: flex;
+	justify-content: flex-end;
+	width: 70%;
+}
+.nav-link{
+	text-decoration: none;
+	color: #212121;
+	display: inline-block;
+	font-size: 1.4rem;
+}
+.nav-link+.nav-link{
+	margin: 3%;
+}
+.logo{
+	font-size: 18px;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
